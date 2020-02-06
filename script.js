@@ -29,7 +29,7 @@ $(function()
 	{
     		artist: "Đức Phúc - Hoàng Rob",
     		name: "Đừng Rời Xa Tôi",
-    		url: "DungRoiXaToi.mp3",
+    		url: "dungroixatoi.mp3",
     		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
