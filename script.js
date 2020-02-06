@@ -31,6 +31,12 @@ $(function()
     		name: "Đừng Rời Xa Tôi",
     		url: "dungroixatoi.mp3",
     		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},
+	{
+    		artist: "Chillies",
+    		name: "Và Thế Là Hết",
+    		url: "VaTheLaHet.mp3",
+    		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
 	function shuffle(a) {
