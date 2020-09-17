@@ -77,11 +77,6 @@ $(function()
     picture: "https://imgur.com/QgNOXcW"
 }, {
     artist: "Reddy",
-    name: "Thì Thôi",
-    url: "Musics/ThiThoi.mp3",
-    picture: "https://imgur.com/QgNOXcW"
-}, {
-    artist: "Reddy",
     name: "Nếu",
     url: "Musics/Neu.mp3",
     picture: "https://imgur.com/QgNOXcW"
