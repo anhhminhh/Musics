@@ -59,12 +59,12 @@ $(function()
 		artist: "Đạt G - Du Uyên",
 		name: "Bánh Mì Không",
 		url: "Musics/BanhMiKhong.mp3",
-		picture: "https://user-images.githubusercontent.com/58257552/93662520-f4efab80-fa8a-11ea-87c3-81f0b207c3f8.jpg"
+		picture: "https://github.com/anhhminhh/Musics/issues/1#issue-704833528"
 }, {
     artist: "Erik",
     name: "Có Tất Cả Nhưng Thiếu Anh",
     url: "Musics/CoTatCaNhungThieuAnh.mp3",
-    picture: "https://user-images.githubusercontent.com/58257552/93662520-f4efab80-fa8a-11ea-87c3-81f0b207c3f8.jpg"
+    picture: "https://github.com/anhhminhh/Musics/issues/1#issue-704833528"
 }]	
 	function shuffle(a) {
 		var j, x, i;
