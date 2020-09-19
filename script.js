@@ -24,7 +24,7 @@ $(function()
 		artist: "Hoài Lâm x Freak D",
 		name: "Hoa Nở Không Màu",
 		url: "Musics/HoaNoKhongMau.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		picture: "![thumb_duyripper_1 (2)](https://user-images.githubusercontent.com/58257552/93662867-86f8b380-fa8d-11ea-9a46-9f5e2c1ac164.jpg)"
 	}];
 	
 	function shuffle(a) {
