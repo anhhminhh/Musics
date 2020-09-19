@@ -1,38 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@anhhminhh 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-anhhminhh
-/
-Music
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Music/script.js /
-@anhhminhh
-anhhminhh Update script.js
-Latest commit ed6185f 5 minutes ago
- History
- 1 contributor
-315 lines (263 sloc)  8.03 KB
-  
 $(function()
 {
     var playerTrack = $("#player-track");
@@ -56,16 +21,11 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "Đạt G - Du Uyên",
-		name: "Bánh Mì Không",
-		url: "Musics/BanhMiKhong.mp3",
-		picture: "https://imgur.com/QgNOXcW"
-}, {
-    artist: "Erik",
-    name: "Có Tất Cả Nhưng Thiếu Anh",
-    url: "Musics/CoTatCaNhungThieuAnh.mp3",
-    picture: "https://imgur.com/QgNOXcW"
-}]
+		artist: "Dig Didzay",
+		name: "Nếu Anh Đi (Cover)",
+		url: "Musics/NeuAnhDi.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}];
 	
 	function shuffle(a) {
 		var j, x, i;
@@ -265,7 +225,7 @@ $(function()
                 clearInterval(buffInterval);
                 checkBuffering();
             }
-			
+
             albumName.text(currAlbum);
             trackName.text(currTrackName);
             $('#album-art img').prop('src', bgArtworkUrl);
@@ -303,15 +263,3 @@ $(function()
     
 	initPlayer();
 });
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
