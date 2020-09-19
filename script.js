@@ -21,7 +21,7 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "Hoài Lâm x Freak D : Lofi",
+		artist: "Hoài Lâm x Freak D",
 		name: "Hoa Nở Không Màu"
 		url: "Musics/HoaNoKhongMau.mp3",
 		picture: "![bg2](https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg)"
