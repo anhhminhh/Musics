@@ -59,52 +59,52 @@ $(function()
 		artist: "Đạt G - Du Uyên",
 		name: "Bánh Mì Không",
 		url: "Musics/BanhMiKhong.mp3",
-		picture: "https://imgur.com/QgNOXcW"
+		picture: "Background/bg2"
 	}, {
     artist: "Đức Phúc - Hoàng Rob",
     name: "Đừng Rời Xa Tôi",
     url: "Musics/DungRoiXaToi.mp3",
-    picture: "https://imgur.com/QgNOXcW"
+    picture: "Background/bg2"
 }, {
     artist: "Chillies",
     name: "Và Thế Là Hết",
     url: "Musics/VaTheLaHet.mp3",
-    picture: "https://imgur.com/QgNOXcW"
+    picture: "Background/bg2"
 }, {
     artist: "Chillies",
     name: "Mascara",
     url: "Musics/Mascara.mp3",
-    picture: "https://imgur.com/QgNOXcW"
+    picture: "Background/bg2"
 }, {
     artist: "Reddy",
     name: "Nếu",
     url: "Musics/Neu.mp3",
-    picture: "https://imgur.com/QgNOXcW"
+    picture: "Background/bg2"
 },{
     artist: "Đức Phúc",
     name: "Hết Thương Cạn Nhớ",
     url: "Musics/HetThuongCanNho.mp3",
-    picture: "https://imgur.com/L2gLKua"
+    picture: "Background/bg2"
 }, {
     artist: "Erik",
     name: "Có Tất Cả Nhưng Thiếu Anh",
     url: "Musics/CoTatCaNhungThieuAnh.mp3",
-    picture: "https://imgur.com/QgNOXcW"
+    picture: "Background/bg2"
 }, {
     artist: "Tăng Phúc",
     name: "Tất Cả Sẽ Thay Em Cover",
     url: "Musics/TatCaSeThayEm.mp3",
-    picture: "https://imgur.com/QgNOXcW"
+    picture: "Background/bg2"
 }, {
     artist: "Trung Quân",
     name: "Tình Nào Không Như Tình Đầu",
     url: "Musics/TinhNaoKhongNhuTinhDau.mp3",
-    picture: "https://imgur.com/QgNOXcW"	
+    picture: "Background/bg2"	
 }, {
     artist: "Erik",
     name: "Lạc Nhau Có Phải Muôn Đời",
     url: "Musics/LacNhauCoPhaiMuonDoi.mp3",
-    picture: "https://imgur.com/QgNOXcW"
+    picture: "Background/bg2"
 }]
 	
 	function shuffle(a) {
