@@ -1,38 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@anhhminhh 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-anhhminhh
-/
-Music
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Music/script.js /
-@anhhminhh
-anhhminhh Update script.js
-Latest commit ed6185f 5 minutes ago
- History
- 1 contributor
-315 lines (263 sloc)  8.03 KB
-  
 $(function()
 {
     var playerTrack = $("#player-track");
@@ -56,56 +21,16 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "Đạt G - Du Uyên",
+		artist: "Đạt G x DuUyên",
 		name: "Bánh Mì Không",
-		url: "Musics/BanhMiKhong.mp3",
-		picture: "Background/bg2"
+		url: "Musics/BanhMiKhong",
+		picture: "https://imgur.com/QgNOXcW"
 	}, {
-    artist: "Đức Phúc - Hoàng Rob",
-    name: "Đừng Rời Xa Tôi",
-    url: "Musics/DungRoiXaToi.mp3",
-    picture: "Background/bg2"
-}, {
-    artist: "Chillies",
-    name: "Và Thế Là Hết",
-    url: "Musics/VaTheLaHet.mp3",
-    picture: "Background/bg2"
-}, {
-    artist: "Chillies",
-    name: "Mascara",
-    url: "Musics/Mascara.mp3",
-    picture: "Background/bg2"
-}, {
-    artist: "Reddy",
-    name: "Nếu",
-    url: "Musics/Neu.mp3",
-    picture: "Background/bg2"
-},{
-    artist: "Đức Phúc",
-    name: "Hết Thương Cạn Nhớ",
-    url: "Musics/HetThuongCanNho.mp3",
-    picture: "Background/bg2"
-}, {
     artist: "Erik",
     name: "Có Tất Cả Nhưng Thiếu Anh",
     url: "Musics/CoTatCaNhungThieuAnh.mp3",
-    picture: "Background/bg2"
-}, {
-    artist: "Tăng Phúc",
-    name: "Tất Cả Sẽ Thay Em Cover",
-    url: "Musics/TatCaSeThayEm.mp3",
-    picture: "Background/bg2"
-}, {
-    artist: "Trung Quân",
-    name: "Tình Nào Không Như Tình Đầu",
-    url: "Musics/TinhNaoKhongNhuTinhDau.mp3",
-    picture: "Background/bg2"	
-}, {
-    artist: "Erik",
-    name: "Lạc Nhau Có Phải Muôn Đời",
-    url: "Musics/LacNhauCoPhaiMuonDoi.mp3",
-    picture: "Background/bg2"
-}]
+    picture: "https://imgur.com/QgNOXcW"
+	}]
 	
 	function shuffle(a) {
 		var j, x, i;
@@ -305,7 +230,7 @@ $(function()
                 clearInterval(buffInterval);
                 checkBuffering();
             }
-			
+
             albumName.text(currAlbum);
             trackName.text(currTrackName);
             $('#album-art img').prop('src', bgArtworkUrl);
@@ -343,15 +268,3 @@ $(function()
     
 	initPlayer();
 });
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
