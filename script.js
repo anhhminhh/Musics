@@ -1,3 +1,38 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@anhhminhh 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+anhhminhh
+/
+Music
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Music/script.js /
+@anhhminhh
+anhhminhh Update script.js
+Latest commit ed6185f 5 minutes ago
+ History
+ 1 contributor
+315 lines (263 sloc)  8.03 KB
+  
 $(function()
 {
     var playerTrack = $("#player-track");
@@ -21,17 +56,16 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "Đạt G x DuUyên",
+		artist: "Đạt G - Du Uyên",
 		name: "Bánh Mì Không",
-		url: "Musics/BanhMiKhong",
-		picture: "https://imgur.com/QgNOXcW"
-	}, {
+		url: "Musics/BanhMiKhong.mp3",
+		picture: "https://user-images.githubusercontent.com/58257552/93662520-f4efab80-fa8a-11ea-87c3-81f0b207c3f8.jpg"
+}, {
     artist: "Erik",
     name: "Có Tất Cả Nhưng Thiếu Anh",
     url: "Musics/CoTatCaNhungThieuAnh.mp3",
-    picture: "https://imgur.com/QgNOXcW"
-	}]
-	
+    picture: "https://user-images.githubusercontent.com/58257552/93662520-f4efab80-fa8a-11ea-87c3-81f0b207c3f8.jpg"
+}]	
 	function shuffle(a) {
 		var j, x, i;
 		for (i = a.length - 1; i > 0; i--) {
@@ -230,7 +264,7 @@ $(function()
                 clearInterval(buffInterval);
                 checkBuffering();
             }
-
+			
             albumName.text(currAlbum);
             trackName.text(currTrackName);
             $('#album-art img').prop('src', bgArtworkUrl);
@@ -268,3 +302,15 @@ $(function()
     
 	initPlayer();
 });
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
