@@ -21,13 +21,13 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "Hoài Lâm x Freak D",
+		artist: "Hoài Lâm x Freak D (Lofi.)",
 		name: "Hoa Nở Không Màu",
 		url: "Musics/HoaNoKhongMau.mp3",
 		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
 	}, {
-		artist: "Liz x Trịnh Thăng Bình",
-		name: "EmCan1NguoiQuanTam",
+		artist: "Liz Kim Cương x Trịnh Thăng Bình",
+		name: "Em Cần Một Người Quan Tâm",
 		url: "Musics/EmCanMotNguoiQuanTam.mp3",
 		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
 	}, {
@@ -37,7 +37,7 @@ $(function()
 		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
 	}, {
 		artist: "Gil Lê",
-		name: "SaoNgTaNoLamMinhDau",
+		name: "Sao Người Ta Nở Làm Mình Đau",
 		url: "Musics/SaoNguoiTaNoLamMinhDau.mp3",
 		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
 	}]
