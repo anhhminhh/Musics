@@ -21,7 +21,7 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "Hoài Lâm x Freak D",
+		artist: "Hoài Lâm x Freak D  ",
 		name: "Hoa Nở Không Màu (Lofi.)",
 		url: "Musics/HoaNoKhongMau.mp3",
 		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
@@ -34,6 +34,41 @@ $(function()
 		artist: "Trung Quân",
 		name: "Tinh Nào Không Như Tình Đầu",
 		url: "Musics/TinhNaoKhongNhuTinhDau.mp3",
+		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
+	}, {
+		artist: "Táo",
+		name: "Blue Tequila",
+		url: "Musics/BlueTequila.mp3",
+		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
+	}, {
+		artist: "14 Casper x Bon",
+		name: "Có Ai Ở Đây Không",
+		url: "Musics/CoAiODayKhong.mp3",
+		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
+	}, {
+		artist: "Tóc Tiên",
+		name: "Có Ai Thương Em Như Anh",
+		url: "Musics/CoAiThuongEmNhuAnh.mp3",
+		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
+	}, {
+		artist: "buitruonglinh",
+		name: "Đường Tôi Chở Em Về",
+		url: "Musics/DuongToiChoEmVe.mp3",
+		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
+	}, {
+		artist: "Trịnh Thăng Bình x Liz Kim Cương",
+		name: "Khác Biệt To Lớn",
+		url: "Musics/KhacBietToLon.mp3",
+		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
+	}, {
+		artist: "Hakoota Dũng Hà",
+		name: "Tình Yêu Nghỉ Ngơi",
+		url: "Musics/TinhYeuNghiNgoi.mp3",
+		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
+	}, {
+		artist: "Việt",
+		name: "Tình Đẹp Đến Mấy Cũng Tàn",
+		url: "Musics/TinhDepDenMayCungTan.mp3",
 		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
 	}, {
 		artist: "Gil Lê",
