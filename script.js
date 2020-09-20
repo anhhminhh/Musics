@@ -71,6 +71,32 @@ $(function()
 		url: "Musics/TinhDepDenMayCungTan.mp3",
 		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
 	}, {
+		artist: "Da LAB x Miu Lê",
+		name: "Gác Lại Lo Âu",
+		url: "Musics/GacLaiLoAu.mp3",
+		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
+	}, {
+		artist: "Thịnh Suy",
+		name: "Một Đêm Say",
+		url: "Musics/MotDemSay.mp3",
+		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
+	}, {
+		artist: "Đạt G",
+		name: "Thêm Bao Nhiêu Lâu",
+		url: "Musics/ThemBaoNhieuLau.mp3",
+		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
+	}, {
+		artist: "Erik",
+		name: "Có Tất Cả Nhưng Thiếu Anh",
+		url: "Musics/CoTatCaNhungThieuAnh.mp3",
+		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
+	}, {
+		artist: "Erik",
+		name: "Em Không Sai Chúng Ta Sai",
+		url: "Musics/EmKhongSaiChungTaSai.mp3",
+		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
+	}, {
+
 		artist: "Gil Lê",
 		name: "Sao Người Ta Nở Làm Mình Đau",
 		url: "Musics/SaoNguoiTaNoLamMinhDau.mp3",
