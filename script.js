@@ -30,59 +30,6 @@ $(function()
 		name: "Em Cần Một Người Quan Tâm",
 		url: "Musics/EmCanMotNguoiQuanTam.mp3",
 		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
-<div class="z-buttons-setting" data-clipboard-text="Ngày hôm nay cớ sao em buồn 
-Thứ anh chưa một lần hỏi 
-Ngại rằng sẽ khiến anh phiền lòng 
-Nên em cũng chẳng nói 
-Nhiều khi giận dỗi anh mấy lần 
-Khiến anh cho em bất cần 
-Em chẳng cần điều gì xa xăm 
-Chỉ cần một người quan tâm 
-Lạc bước giữa đám đông 
-Chẳng còn ai chung bước 
-Thật sự em chẳng hiểu 
-Ý nghĩa của ai sẽ xin lỗi trước 
-Những điều em đã nghĩ 
-Thật sự không như ý 
-Nhưng thứ anh quan tâm lúc này 
-Chẳng phải em 
-Ngày hôm nay cớ sao em buồn 
-Thứ anh chưa một lần hỏi 
-Ngại rằng sẽ khiến anh phiền lòng 
-Nên em cũng chẳng nói 
-Nhiều khi giận dỗi anh mấy lần 
-Khiến anh cho em bất cần 
-Em chẳng cần điều gì xa xăm 
-Chỉ cần một người quan tâm 
-Em ơi quan tâm thế nào là vừa lòng 
-Em ơi yêu nhau thế nào là một lòng 
-Em hãy chỉ ra vấn đề dù dài dòng 
-Có thể cho anh biết không 
-Anh đang lo toan mỏi mệt vì cuộc sống 
-Anh nghĩ hôm nay 
-Anh cần một khoảng trống 
-Ta nên chia tay để tìm người hằng mong 
-Có phải không 
-Thời gian qua có lẽ em rất buồn 
-Thứ em hằng quan tâm chỉ là tình yêu 
-Thời gian qua có lẽ em rất phiền 
-Thế em chọn ra đi cho người bình yên 
-Ngày hôm nay cớ sao 
-Em buồn thứ anh chưa một lần hỏi 
-Ngại rằng sẽ khiến anh 
-Nên em cũng chẳng nói 
-Nhiều khi giận dỗi anh mấy lần 
-Khiến anh cho em bất cần 
-Em chẳng cần điều gì xa xăm 
-Chỉ cần một người quan tâm 
-Thời gian qua em cảm ơn anh nhiều 
-Đã chịu đựng em khi mình còn yêu 
-Thời gian qua có lẽ em rất phiền 
-Thế em chọn ra đi cho người bình yên 
-Nhiều khi giận dỗi anh mấy lần 
-Khiến anh cho em bất cần 
-Em chẳng cần điều gì xa xăm 
-Chỉ cần một người quan tâm" data-for="z-copy-lyric" data-delay-show="0" data-delay-hide="1000" data-event="click" data-event-off="mousemove" data-tip="Đã sao chép" currentitem="false" style="bottom: 140px;"><span class="z-setting-btn"><i class="icon ic-copy-text"></i><div class="__react_component_tooltip place-top type-dark" id="z-copy-lyric" aria-haspopup="true" data-id="tooltip"></div></span></div>
 	}, {
 		artist: "Trung Quân",
 		name: "Tinh Nào Không Như Tình Đầu",
