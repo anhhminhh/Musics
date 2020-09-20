@@ -62,7 +62,7 @@ body
     top: 0;
     right: 15px;
     left: 15px;
-    padding: 13px 22px 10px 184px;
+    padding: 20px 20px 10px 182px;
     background-color: #fff7f7;
     border-radius: 15px 15px 0 0;
     -webkit-transition: 0.3s ease top;
@@ -81,7 +81,7 @@ body
 	overflow: hidden;
 	text-overflow: ellipsis;
     color: #54576f;
-    font-size: 12px;
+    font-size: 13px;
     font-weight: bold;
 }
 
