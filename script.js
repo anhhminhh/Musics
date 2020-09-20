@@ -24,22 +24,38 @@ $(function()
 		artist: "Hoài Lâm x Freak D",
 		name: "Hoa Nở Không Màu",
 		url: "Musics/HoaNoKhongMau.mp3",
+<<<<<<< HEAD
 		picture: "https://github.com/anhhminhh/Musics/issues/3#issue-704840379"
+=======
+		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
+>>>>>>> 3679c705ffe499bfdc5a3065b84911f6e74662d6
 	}, {
 		artist: "Liz x Trịnh Thăng Bình",
 		name: "EmCan1NguoiQuanTam",
 		url: "Musics/EmCanMotNguoiQuanTam.mp3",
+<<<<<<< HEAD
 		picture: "https://github.com/anhhminhh/Musics/issues/3#issue-704840379"
+=======
+		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
+>>>>>>> 3679c705ffe499bfdc5a3065b84911f6e74662d6
 	}, {
 		artist: "Trung Quân",
 		name: "TinhNao0NhuTinhDau",
 		url: "Musics/TinhNaoKhongNhuTinhDau.mp3",
+<<<<<<< HEAD
 		picture: "https://github.com/anhhminhh/Musics/issues/3#issue-704840379" 
+=======
+		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
+>>>>>>> 3679c705ffe499bfdc5a3065b84911f6e74662d6
 	}, {
 		artist: "Gil Lê",
 		name: "SaoNgTaNoLamMinhDau",
 		url: "Musics/SaoNguoiTaNoLamMinhDau.mp3",
+<<<<<<< HEAD
 		picture: "https://github.com/anhhminhh/Musics/issues/3#issue-704840379"
+=======
+		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
+>>>>>>> 3679c705ffe499bfdc5a3065b84911f6e74662d6
 	}]
 	
 	function shuffle(a) {
