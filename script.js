@@ -32,7 +32,7 @@ $(function()
 		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
 	}, {
 		artist: "Trung Quân",
-		name: "TinhNao0NhuTinhDau",
+		name: "Tinh Nào Không Như Tình Đầu",
 		url: "Musics/TinhNaoKhongNhuTinhDau.mp3",
 		picture: "https://user-images.githubusercontent.com/58257552/93663066-2c605700-fa8f-11ea-90f8-3370fd4da1aa.jpg"
 	}, {
