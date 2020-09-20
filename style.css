@@ -45,7 +45,7 @@ body
     bottom: 0;
     left: 0;
     background-color: #fff;
-    opacity: 0.2;
+    opacity: 0;
     z-index: 2;
 }
 
@@ -63,7 +63,7 @@ body
     right: 15px;
     left: 15px;
     padding: 23px 22px 10px 182px;
-    background-color: #fff7f7;
+    background-color: #101010;
     border-radius: 18px 18px 0 0;
     -webkit-transition: 0.3s ease top;
     transition: 0.3s ease top;
@@ -80,14 +80,14 @@ body
 	white-space: nowrap;
 	overflow: hidden;
 	text-overflow: ellipsis;
-    color: #54576f;
+    color: #7382fb;
     font-size: 12px;
     font-weight: bold;
 }
 
 #track-name
 {
-    color: #acaebd;
+    color: #ffffff;
     font-size: 10px;
     margin: 2px 0 13px 0;
 }
@@ -113,7 +113,7 @@ body
 {
     color: transparent;
     font-size: 11px;
-    background-color: #ffe8ee;
+    background-color: #ff0043;
     border-radius: 10px;
     -webkit-transition: 0.3s ease all;
     transition: 0.3s ease all;
@@ -173,7 +173,7 @@ body
     bottom: 0;
     left: 0;
     width: 0;
-    background-color: #fd6d94;
+    background-color: #ff0045;
     -webkit-transition: 0.2s ease width;
     transition: 0.2s ease width;
     z-index: 1;
@@ -183,7 +183,7 @@ body
 {
     position: relative;
     height: 100%;
-    background-color: #fff;
+    background-color: #415888;
     box-shadow: 0 30px 80px #656565;
     border-radius: 15px;
     z-index: 2;
@@ -328,7 +328,7 @@ body
     width: 26px;
     height: 26px;
     padding: 25px;
-    background-color: #fff;
+    background-color: #4988c3;
     border-radius: 6px;
     cursor: pointer;
 }
